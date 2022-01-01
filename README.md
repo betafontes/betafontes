@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Roberta Fontes
 
-- 📚 Estudando Python e Object Pascal
+- 📚 Graduando em Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/betafontes">
