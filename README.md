@@ -12,7 +12,7 @@
   <img align="center" alt="Beta-HTML5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Beta-CSS3" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Beta-JavaScript" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="right" alt="Beta-pic" height="150" style="border-radius:45px;" src="https://i.pinimg.com/originals/8d/2c/d1/8d2cd10e4cee0cbe298f3cbf85971a24.gif">
+  <img align="right" alt="Beta-pic" height="120" style="border-radius:45px;" src="https://i.pinimg.com/originals/8d/2c/d1/8d2cd10e4cee0cbe298f3cbf85971a24.gif">
 </div>
   
 ##
