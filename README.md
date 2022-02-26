@@ -2,7 +2,7 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=betafontes&label=Profile%20views&color=0e75b6&style=flat" alt="betafontes" /> </p>
 
  
-<h1 align="center">Hello, World!</h1>
+<h1 align="center">Print("Hello, World!") <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1><br>
 <h5 align="center">Desenvolvedora Front-end <br> Estudante de Ciência da Computação</h5>
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
