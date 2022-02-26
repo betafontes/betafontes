@@ -5,14 +5,14 @@
 <h5 align="center">Desenvolvedora Front-end <br> Estudante de Ciência da Computação</h5>
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
-<img align="right" alt="Beta-pic" height="140" style="border-radius:45px;" src="https://i.pinimg.com/originals/8d/2c/d1/8d2cd10e4cee0cbe298f3cbf85971a24.gif">
+<img align="right" alt="Beta-pic" height="150" style="border-radius:45px;" src="https://i.pinimg.com/originals/8d/2c/d1/8d2cd10e4cee0cbe298f3cbf85971a24.gif">
 
  
  ### Aqui eu compartilho projetos conforme o meu aprendizado nos estudos ^-^
  
 - 🥰 Olá, meu nome é Roberta Fontes, porém muitos me chamam de Kiemora!
 - 🎓 Tenho 20 anos e estou cursando meu 1° Período em Ciência da Computação com ênfase em Full Stack Dev
-- 💻 Estudanto Desenvolvimento Fullstack
+- 💻 No momento estudanto Desenvolvimento Web (Front-End)
  
  ---
     
@@ -45,8 +45,8 @@
 ---
 <div align="center">
   <a href="https://github.com/betafontes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=betafontes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&layout=compact&langs_count=6&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=betafontes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&layout=compact&langs_count=6&theme=omni"/>
   </div>
   <hr
   ---
