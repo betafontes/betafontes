@@ -35,13 +35,7 @@
   <a href="https://www.linkedin.com/in/roberta-fontes-3a6256207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>  
  
- ##
  
- </a></p>
-<h3 align="left">🔹IDE que eu utilizo:</h3>
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-  
 ---
 <div align="center">
   <a href="https://github.com/betafontes">
