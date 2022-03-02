@@ -12,7 +12,7 @@
  
 - 🥰 Olá, meu nome é Roberta Fontes, porém muitos me chamam de Kiemora!
 - 🎓 Tenho 20 anos e estou cursando meu 1° Período em Ciência da Computação com ênfase em Full Stack Dev
-- 💻 No momento estudanto Desenvolvimento Web (Front-End)
+- 💻 No momento estudando Desenvolvimento Web (Front-End)
  
  ---
     
