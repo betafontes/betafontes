@@ -2,22 +2,22 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=betafontes&label=Profile%20views&color=0e75b6&style=flat" alt="betafontes" /></p>
 
 <h1 align="center">Print("Hello, World!") <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h5 align="center">Desenvolvedora Front-end <br> Estudante de Ciência da Computação</h5>
+<h5 align="center">Front-end Developer<br>Computer Science Student</h5>
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
 <img align="right" alt="Beta-pic" height="150" style="border-radius:45px;" src="https://i.pinimg.com/originals/8d/2c/d1/8d2cd10e4cee0cbe298f3cbf85971a24.gif">
 
  
- ### Aqui eu compartilho projetos conforme o meu aprendizado nos estudos ^-^
+ ### Here I share projects according to my learning in studies ^-^
  
-- 🥰 Olá, meu nome é Roberta Fontes, porém muitos me chamam de Kiemora!
-- 🎓 Tenho 20 anos e estou cursando meu 1° Período em Ciência da Computação com ênfase em Full Stack Dev
-- 💻 No momento estudando Desenvolvimento Web (Front-End)
+- 🥰 Hello, my name is Roberta Fontes, but many call me Kiemora!
+- 🎓 I'm 20 years old and I'm attending the 1st period in Computer Science with an emphasis on Full Stack Dev
+- 💻 Currently studying Web Development
  
  ---
     
 </a></p>
-<h3 align="left">🔹Estou Estudando:</h3>
+<h3 align="left">🔹Languages and Tools:</h3>
  
 <p align="left">
   <img align="center" alt="Beta-HTML5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -29,7 +29,7 @@
  ##
     
 </a></p>
-<h3 align="left">🔹Conecte-se e entre em contato comigo:</h3>
+<h3 align="left">🔹Connect and contact me:</h3>
 
 <p align="left">
   <a href = "mailto:robertafontesds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
