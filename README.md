@@ -21,7 +21,7 @@
     <img align="center" alt="Beta-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Beta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
    <img align="center" alt="Beta-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/a0/e3/0d/a0e30d22332db512d5cdfe38976bd83d.jpg">
+ <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/564x/a0/e3/0d/a0e30d22332db512d5cdfe38976bd83d.jpg">
  
   ##
  
@@ -29,6 +29,7 @@
   
   <a href = "robertafontesds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-fontes-3a6256207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/kiemora20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
    
  
