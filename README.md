@@ -21,7 +21,7 @@
     <img align="center" alt="Beta-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Beta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
    <img align="center" alt="Beta-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
- <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/564x/a0/e3/0d/a0e30d22332db512d5cdfe38976bd83d.jpg">
+ <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://i.pinimg.com/564x/a0/e3/0d/a0e30d22332db512d5cdfe38976bd83d.jpg">
  
   ##
  
