@@ -5,7 +5,7 @@
 
 - 🥰 Hello, my name is Roberta Fontes, but many call me Kiemora!
 - 🎓 I'm 20 years old and I'm attending the 2st period in Computer Science with an emphasis on Full Stack Dev
-- 💻 Currently studying Web Development
+- 💻Currently studying Front-end Development
 
 
 <div align="center">
