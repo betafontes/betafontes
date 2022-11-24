@@ -28,6 +28,14 @@
   ### Study in the future:
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{betafontes}/count.svg" /></p> 
+<br>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
 
 
