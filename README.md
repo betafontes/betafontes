@@ -12,7 +12,7 @@
     </h2>
     <p align="left">
        Olá Mundo, meu nome é Roberta Fontes. Tenho 21 anos e estou cursando o 2º período de Análise e Desenvolvimento de Sistemas. Atualmente, estou 
-       estudando Desenvolvimento Web por conta própria, com ênfase em Full-Stack, que é a área na qual pretendo me especializar. No entanto, tenho interesse 
+       estudando Desenvolvimento Web com ênfase em Full-Stack, que é a área na qual pretendo me especializar. No entanto, tenho interesse também
        em explorar e aprofundar meu conhecimento em outras áreas da Tecnologia. A cada dia, busco aprimorar minhas habilidades e me desenvolver ainda mais
        no mundo da programação!
     </p>
