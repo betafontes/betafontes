@@ -4,7 +4,7 @@
 - 🌱 Estudando Desenvolvimento Web com foco em Full-Stack
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
-- 🚀 Aprendendo : React
+- 🚀 Aprendendo : React , Mysql
 
 <br>
   
