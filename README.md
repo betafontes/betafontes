@@ -2,9 +2,10 @@
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Desenvolvimento Web com foco em Full-Stack
+- 🚀 Aprendendo : React , Mysql
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
-- 🚀 Aprendendo : React , Mysql
+- ✨ Curiosidades : Me considero Autodidata, e estou estudo para melhorar meu inglês e recentemente estudando Espanhol 
 
 <br>
   
