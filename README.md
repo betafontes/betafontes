@@ -5,7 +5,6 @@
 - 🚀 Aprendendo : React , Mysql
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
-- ✨ Curiosidades : Me considero autodidata, atualmente estudando para melhorar meu inglês e iniciando em Espanhol 
 
 <br>
   
