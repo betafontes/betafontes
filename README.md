@@ -2,7 +2,7 @@
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Desenvolvimento Web com foco em Full-Stack
-- 🚀 Aprendendo : React , Mysql
+- 🚀 Aprendendo : React , Node.js
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
 
