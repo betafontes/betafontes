@@ -4,8 +4,8 @@
 
 <div id="translations">    
 <table>
-    <td><a align="left" alt="pt-br" align="right" href="https://github.com/betafontes/main/README-ptbr.md" target="_blank">Português 🇧🇷</a></td>
-    <td><a align="left" alt="en" align="right" href="https://github.com/betafontes/main/README.md" target="_blank">English 🇺🇸</a></td>
+    <td><a align="left" alt="pt-br" align="right" href="https://github.com/betafontes/main/README.md" target="_blank">Português 🇧🇷</a></td>
+    <td><a align="left" alt="en" align="right" href="https://github.com/betafontes/main/README-en.md" target="_blank">English 🇺🇸</a></td>
 </table>
 </div>
 
