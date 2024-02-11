@@ -2,12 +2,15 @@
 
 <br>
 
-<div id="translations">    
+<div id="translated-readme">
+<p align="left">Traduções de ReadMe: </p>
+    
 <table>
-    <td><a align="left" alt="pt-br" align="right" href="https://github.com/betafontes/blob/main/README.md" target="_blank">Português 🇧🇷</a></td>
-    <td><a align="left" alt="en" align="right" href="https://github.com/betafontes/blob/main/README-en.md" target="_blank">English 🇺🇸</a></td>
+    <td><a align="left" alt="pt-br" align="right" title="translate readme to english" href="https://github.com/betafontes/betafontes/blob/main/README-en.md" target="_blank">Português</a></td>
+    <td><a align="left" alt="en" align="right" title="traduzir readme para português" href="https://github.com/betafontes/betafontes/blob/main/README.md" target="_blank">Português</a></td>
 </table>
 </div>
+
 
 ##
 
