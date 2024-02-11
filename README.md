@@ -1,12 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Roberta+Fontes;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
+<br>
+
+<div id="translations">    
+<table>
+    <td><a align="left" alt="pt-br" align="right" href="https://github.com/betafontes/main/README-ptbr.md" target="_blank">Português 🇧🇷</a></td>
+    <td><a align="left" alt="en" align="right" href="https://github.com/betafontes/main/README.md" target="_blank">English 🇺🇸</a></td>
+</table>
+</div>
+
+##
+
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Desenvolvimento Web com foco em Full-Stack
 - 🚀 Aprendendo : React , Node.js
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
 
-<br>
+ ##
+
+ <br>
   
 
   <div align="center">  
@@ -41,7 +54,5 @@
   ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
-    
  
+
