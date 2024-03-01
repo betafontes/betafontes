@@ -13,7 +13,7 @@
 ##
 
 - 💻 Studying Systems Analysis and Development
-- 🌱 Studying Web Development with a focus on Full-Stack
+- 🌱 Studying Web Development with a focus on Front-End
 - 🚀 Learning: React, Node.js
 - 😊 Pronouns: She/Her
 - ❤️ Likes: Animes, Dramas and Games
