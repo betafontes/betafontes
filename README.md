@@ -13,7 +13,7 @@
 ##
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Desenvolvimento Web com foco em Full-Stack
+- 🌱 Estudando Desenvolvimento Web com foco em Front-End
 - 🚀 Aprendendo : React , Node.js
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
