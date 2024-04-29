@@ -12,9 +12,10 @@
 
 ##
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Desenvolvimento Web com foco em Front-End
-- 🚀 Aprendendo : React , Node.js
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvedora Front-End
+- 🌱 Atualmente Estudando Desenvolvimento Mobile
+- 🚀 Aprendendo : Dart, Flutter
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
 
