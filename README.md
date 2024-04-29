@@ -44,8 +44,6 @@
     <img align="center" alt="Beta-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />      
     <img align="center" alt="Beta-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
     <img align="center" alt="Beta-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
-          
-   <img align="right" alt="Beta-pic" height="150" style="border-radius:100%;" src="https://th.bing.com/th/id/OIG.iANOIy8fBDmGYXogL.Xt?pid=ImgGn">
  </div>
  
  <br>
