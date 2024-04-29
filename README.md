@@ -14,7 +14,7 @@
 ## 💜 Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estou me especializando em Mobile, mas tenho noções do Front-End.
+- 💻 Estou me especializando em Mobile, mas tenho noções do Front-End
 - 🚀 Aprendendo : Dart, Flutter
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
