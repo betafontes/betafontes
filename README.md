@@ -19,8 +19,6 @@
 - 😊 Pronomes : Ela/Dela
 - ❤️ Gostos : Animes, Doramas e Jogos
 
-
-
  <br>
   
   ## 💫 Estatísticas do GitHub
@@ -50,7 +48,7 @@
 
  ## 📫 Contatos
 
-  <br>
+ <br>
  
  <div> 
    <a href="https://codepen.io/betafontes" target="_blank"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
