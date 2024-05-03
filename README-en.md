@@ -14,7 +14,7 @@
 ## 💜 About me
 
 - 🎓 Studying Systems Analysis and Development
-- 💻 I'm specializing in Mobile, but I have some knowledge of Front-End
+- 💻 I'm specializing in Mobile studies, but I have knowledge of Front-End
 - 🚀 Learning: Dart, Flutter
 - 😊 Pronouns: She/Her
 - ❤️ Likes: Animes, Dramas and Games
