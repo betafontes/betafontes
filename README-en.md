@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Hii+My+Name+is+Roberta+Fontes;Welcome+To+My+Github!)](https://git.io/typing-svg)
 
+<div align=center>
+<img height="170em" src="https://camo.githubusercontent.com/700c1e9358406971d2c5c39db87ec8e4a6d7142585744b2fa6dd280c1d6412a6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34352f30392f39352f34353039393563343039653434636664353564323933373537616237623463612e676966">
+</div>
+
 <br>
 
 <div>    
