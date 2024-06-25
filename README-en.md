@@ -18,8 +18,8 @@
 ## 💜 About me
 
 - 🎓 Studying Systems Analysis and Development
-- 💻 I'm specializing in Mobile studies, but I have knowledge of Front-End
-- 🚀 Learning: Dart, Flutter
+- 💻Front-end Developer
+- 🚀 Learning: TypeScript, React
 - 😊 Pronouns: She/Her
 - ❤️ Likes: Animes, Dramas and Games
 
@@ -37,8 +37,6 @@
   ## 🚀 Technologies and Tools
 
  <div style="display: inline_block"><br>
-    <img align="center" alt="Beta-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-    <img align="center" alt="Beta-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Beta-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Beta-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Beta-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
