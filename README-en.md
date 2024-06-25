@@ -19,7 +19,7 @@
 
 - 🎓 Studying Systems Analysis and Development
 - 💻Front-end Developer
-- 🚀 Learning: TypeScript, React
+- 🚀 Learning: React, TypeScript
 - 😊 Pronouns: She/Her
 - ❤️ Likes: Animes, Dramas and Games
 
