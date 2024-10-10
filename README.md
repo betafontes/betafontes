@@ -72,7 +72,7 @@
 <div align="center">
 <h3>Se você me apoia, clique aqui, me dê um café</h3>
 <a href="https://ko-fi.com/betafontes" target="_blank">
-<img align="center" height="70" width="70" src="https://github.com/betafontes/betafontes/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
+<img align="center" height="70" width="70" src="https://cdn-icons-png.freepik.com/256/924/924514.png?semt=ais_hybrid">
 </a>
 </div>
 
