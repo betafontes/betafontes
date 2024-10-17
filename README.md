@@ -15,8 +15,6 @@
 
 <br>
 
-
-
 ## 💟 Sobre Mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
@@ -32,7 +30,7 @@
 
  <br>
   
-  ## 💫 Estatísticas do GitHub
+  ## ⭐ Estatísticas do GitHub
   
   <div align="center">  
      <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=material-palenight_border=true&theme=material-palenight" /> 
@@ -41,7 +39,7 @@
 
   <br>
 
-  ## 🚀 Tecnologias 
+  ## 🦄 Tecnologias 
 
  <div style="display: inline_block"><br>
     <img align="center" alt="Beta-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -64,7 +62,7 @@
  
  <br>
 
- ## 📫 Contatos
+ ## 💌 Contatos
 
  <br>
  
