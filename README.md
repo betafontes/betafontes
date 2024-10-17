@@ -32,8 +32,8 @@
   ## 💫 Estatísticas do GitHub
   
   <div align="center">  
-     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=dracula_border=true&theme=dracula" /> 
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=material-palenight_border=true&theme=material-palenight" /> 
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
   </div>
 
   <br>
