@@ -19,8 +19,6 @@
 
 ## 💜 Sobre mim
 
-<img src="https://i.pinimg.com/control/564x/81/f7/b2/81f7b2b7c098bb9905657d567c50386e.jpg" width="220px" align="right">
-
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedora Front-end Jr
 - 🎨 UI Design
