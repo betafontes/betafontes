@@ -15,10 +15,11 @@
 
 <br>
 
-<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 ## 💜 Sobre mim
+
+<img src="https://i.pinimg.com/control/564x/81/f7/b2/81f7b2b7c098bb9905657d567c50386e.jpg" width="235px" align="right">
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedora Front-end Jr
