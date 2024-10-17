@@ -17,15 +17,18 @@
 
 
 
-## 💜 Sobre mim
+## 💟 Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedora Front-end Jr
 - 🎨 UI Design
 - 🚀 Aprendendo : React , Figma
-- 📚 Codando todos os dias
 - ⚡ Trabalhando em Projetos Freelances
 
+
+ <br>
+ 
+  > "Quanto melhor focarmos em melhorar, mais rápido melhoraremos."
 
  <br>
   
@@ -83,9 +86,9 @@
 <br>
 
 <div align="center">
-<h3>Se você me apoia, clique aqui, me dê um café</h3>
+<h3>Se você me apoia, clique aqui, me dê um café :)</h3>
     
 <a href="https://ko-fi.com/betafontes" target="_blank">
-<img align="center" height="70" width="70" src="https://cdn-icons-png.freepik.com/256/924/924514.png?semt=ais_hybrid"  target="_blank">
+<img align="center" height="80" width="80" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFiazVtazB0MW5hdTdxYXMwbDhsbmxuZDczY2tkcGNzanI4eTVwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1JVwZwVzoyK9dvrfr/giphy.webp"  target="_blank">
 </a>
 </div>
