@@ -9,7 +9,7 @@
 <div>    
 <table>
     <td><a align="left" alt="en" align="right" title="traduzir readme para português" href="https://github.com/betafontes/betafontes/blob/main/README.md" target="_blank">Português 🇧🇷</a></td>
-    <td><a align="left" alt="pt-br" align="right" title="translate readme to english" href="https://github.com/betafontes/betafontes/blob/main/README-en.md" target="_blank">Inglês 🇺🇸</a></td>
+    <td><a align="left" alt="pt-br" align="right" title="traduzir readme para inglês" href="https://github.com/betafontes/betafontes/blob/main/README-en.md" target="_blank">Inglês 🇺🇸</a></td>
 </table>
 </div>
 
@@ -17,7 +17,7 @@
 
 
 
-## 💟 Sobre mim
+## 💟 Sobre Mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedora Front-end Jr
