@@ -15,6 +15,9 @@
 
 <br>
 
+<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 ## 💜 Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
