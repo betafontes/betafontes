@@ -62,6 +62,11 @@
  
  <br>
 
+ 
+  ## 🎯 Estatísticas do Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6744f9ee5434bf319af6a211?variant=light&roadmaps=frontend)](https://roadmap.sh)
+
  ## 💌 Contatos
 
  <br>
@@ -74,10 +79,6 @@
    [![Email](https://img.shields.io/badge/Gmail-ca0b4a?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:betafontesdev@gmail.com)
   
 <br>
-
-  ## 🎯 Estatísticas do Roadmap
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6744f9ee5434bf319af6a211?variant=light&roadmaps=frontend)](https://roadmap.sh)
 
 <hr>
 
