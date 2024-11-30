@@ -64,6 +64,11 @@
  
  <br>
 
+ 
+  ## 🎯 Roadmap Statistics
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6744f9ee5434bf319af6a211?variant=light&roadmaps=frontend)](https://roadmap.sh)
+
  ## 💌 Contacts
 
  <br>
