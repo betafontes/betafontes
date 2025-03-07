@@ -18,10 +18,10 @@
 ## 💟 Sobre Mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvedora Front-end Jr
-- 🎨 UI Design
-- 🚀 Aprendendo : React , Figma
-- ⚡ Trabalhando em Projetos Freelances
+- 💻 Desenvolvedora Full-Stack na Telebit Brasil
+- 🎨 Conhecimento en UI/UX Design
+- 🚀 Aprendendo : Python, Django
+- ⚡ Sempre em busca de crescimento!
 
 
  <br>
