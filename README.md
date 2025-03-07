@@ -19,7 +19,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedora Full-Stack na Telebit Brasil
-- 🎨 Conhecimento en UI/UX Design
+- 🎨 Conhecimento em UI/UX Design
 - 🚀 Aprendendo : Python, Django
 - ⚡ Sempre em busca de crescimento!
 
