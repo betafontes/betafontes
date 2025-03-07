@@ -20,10 +20,10 @@
 ## 💟 About Me
 
 - 🎓 Studying Systems Analysis and Development
-- 💻 Jr Front-end Developer
-- 🎨 UI Design
-- 🚀 Learning : React , Figma
-- ⚡ Working on Freelance Projects
+- 💻 Full-Stack Developer at Telebit Brasil
+- 🎨 Knowledge in UI/UX Design
+- 🚀 Learning: Python, Django
+- ⚡ Always looking for growth!
 
 
  <br>
