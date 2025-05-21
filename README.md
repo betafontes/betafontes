@@ -20,7 +20,7 @@
 - ⚡ Sempre em busca do crescimento!
 - 💻 Estagiária em Desenvolvimento Back-end na Telebit Brasil
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🎨 Conhecimento na área de UX/UI Design
+- 🎨 Conhecimento na área de UI/UX Design
 - 🚀 Aprendendo : Python, Django
 
 
