@@ -19,11 +19,11 @@
 
 ## 💟 About Me
 
-- 🎓 Studying Systems Analysis and Development
-- 💻 Full-Stack Developer at Telebit Brasil
-- 🎨 Knowledge in UI/UX Design
-- 🚀 Learning: Python, Django
 - ⚡ Always looking for growth!
+- 💻 Back-end Development Intern at Telebit Brasil
+- 🎓 Studying Systems Analysis and Development
+- 🎨 Knowledge in the area of UI/UX Design
+- 🚀 Learning: Python, Django
 
 
  <br>
@@ -49,7 +49,8 @@
     <img align="center" alt="Beta-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Beta-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
     <img align="center" alt="Beta-TailwindCSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-          
+    <img align="center" alt="Beta-Django" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />   
+    <img align="center" alt="Beta-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  </div>
 
 <br>
@@ -59,7 +60,7 @@
  <div style="display: inline_block"><br>
     <img align="center" alt="Beta-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     <img align="center" alt="Beta-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" alt="Beta-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />      
+    <img align="center" alt="Beta-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />   
  </div>
  
  <br>
@@ -85,13 +86,4 @@
  <br>
 
    ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
-</div>
-<br>
-
-<div align="center">
-<h3>If you support me, click here, give me a coffee :)</h3>
-    
-<a href="https://ko-fi.com/betafontes" target="_blank">
-<img align="center" height="80" width="80" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFiazVtazB0MW5hdTdxYXMwbDhsbmxuZDczY2tkcGNzanI4eTVwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1JVwZwVzoyK9dvrfr/giphy.webp"  target="_blank">
-</a>
 </div>
