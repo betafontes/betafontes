@@ -17,11 +17,11 @@
 
 ## 💟 Sobre Mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- ⚡ Sempre em busca do crescimento!
 - 💻 Estagiária em Desenvolvimento Back-end na Telebit Brasil
-- 🎨 Conhecimento em Figma
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎨 Conhecimento na área de UX/UI Design
 - 🚀 Aprendendo : Python, Django
-- ⚡ Sempre em busca de crescimento!
 
 
  <br>
@@ -42,6 +42,8 @@
   ## 🦄 Tecnologias 
 
  <div style="display: inline_block"><br>
+    <img align="center" alt="Beta-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Beta-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Beta-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Beta-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
     <img align="center" alt="Beta-TailwindCSS" height="42" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
