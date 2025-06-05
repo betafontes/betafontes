@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=23&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Roberta+Fontes;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=23&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Roberta+Santos;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 <div align=center>
 <img height="60em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhidzU0Zm8xbHZ6cnBmb2d1Z2Ixam1ta3JvbnJoMzdrN2ptOTk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.webp">
