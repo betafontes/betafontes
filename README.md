@@ -17,11 +17,11 @@
 
 ## 💟 Sobre Mim
 
-- ⚡ Sempre em busca do crescimento!
+- ⚡ Sempre em busca do Conhecimento!
 - 💻 Estagiária em Desenvolvimento Back-end na Telebit Brasil
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🎨 Conhecimento na área de UI/UX Design
-- 🚀 Aprendendo : Python, Django
+- 🎨 Conhecimento na área de Front-end | UI/UX Design
+- 🚀 Aprendendo : Python, Django, Selenium
 
 
  <br>
