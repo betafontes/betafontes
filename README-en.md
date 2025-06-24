@@ -19,11 +19,11 @@
 
 ## 💟 About Me
 
-- ⚡ Always looking for growth!
+- ⚡ Always in search of Knowledge!
 - 💻 Back-end Development Intern at Telebit Brasil
 - 🎓 Studying Systems Analysis and Development
-- 🎨 Knowledge in the area of UI/UX Design
-- 🚀 Learning: Python, Django
+- 🎨 Knowledge in the area of ​​Front-end | UI/UX Design
+- 🚀 Learning: Python, Django, Selenium
 
 
  <br>
