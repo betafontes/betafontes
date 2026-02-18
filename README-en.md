@@ -59,7 +59,7 @@
    <div style="display: inline_block">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=vscode,git,figma&perline=19" 
+      src="https://skillicons.dev/icons?i=vscode,git,figma,postman&perline=19" 
       width="150" 
       height="auto" />
   </a>
