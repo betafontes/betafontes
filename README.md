@@ -17,7 +17,7 @@
 
 ## 💟 Sobre Mim
 
-**`Desenvolvedora Full-Stack`**
+**`< Desenvolvedora Full-Stack />`**
 
 <br>
 
