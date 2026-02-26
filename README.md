@@ -76,10 +76,11 @@
  
  <div> 
 
-   [![Codepen](https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/betafontes)
-   [![Discord](https://img.shields.io/badge/@betafontes-7289DA?style=for-the-badge&logo=discord&logoColor=white "My Discord user")](#)
+   [![Discord](https://img.shields.io/badge/Discord-robertafontes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/687053538999926853)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/roberta-fontes/)
    [![Email](https://img.shields.io/badge/Gmail-ca0b4a?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:betafontesdev@gmail.com)
+    [![Codepen](https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/betafontes)
+    [![MonkeyType](https://img.shields.io/badge/Monkeytype-4c89bc?style=for-the-badge&logo=monkeytype&logoColor=white "Monkeytype")](https://monkeytype.com/profile/betafontes)
   
 <br>
 
