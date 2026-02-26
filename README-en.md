@@ -15,76 +15,82 @@
 
 <br>
 
-
-
 ## 💟 About Me
 
-- ⚡ Always in search of Knowledge!
-- 💻 Back-end Development Intern at Telebit Brasil
+**`< Full-Stack Developer />`**
+
+<br>
+
+- ⚡ Always in search of knowledge!
+- 💻 Systems Development Intern at Telebit Brasil
 - 🎓 Studying Systems Analysis and Development
-- 🎨 Knowledge in the area of ​​Front-end | UI/UX Design
-- 🚀 Learning: Python, Django, Selenium
+- 🎨 Knowledge in Front-end Development | UI/UX Design
+- 🚀 Currently learning: Python, Django, Selenium
 
+<br>
 
- <br>
- 
-  > "The better we focus on improving, the faster we will improve."
+> "The better we focus on improving, the faster we improve."
 
- <br>
+<br>
+
+## ⭐ GitHub Statistics
   
-  ## ⭐ GitHub Statistics
-  
-  <div align="center">  
-     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=material-palenight_border=true&theme=material-palenight" /> 
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
-  </div>
-
-  <br>
-
-  ## 🦄 Technologies
-
-  <div style="display: inline_block">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,nextjs,tailwindcss,python,django,mysql&perline=19" 
-      width="520" 
-      height="auto" />
-  </a>
+<div align="center">  
+   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=material-palenight_border=true&theme=material-palenight" /> 
+   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betafontes&layout=compact&theme=material-palenight" />
 </div>
 
 <br>
 
-   ## ⚙️ Tools
+## 🦄 Technologies
 
-   <div style="display: inline_block">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=vscode,git,figma,postman&perline=19" 
-      width="150" 
-      height="auto" />
-  </a>
+<div style="display: inline_block">
+<a href="https://skillicons.dev">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,nextjs,typescript,tailwindcss,python,django,mysql&perline=19" 
+    width="520" 
+    height="auto" />
+</a>
 </div>
- <br>
 
- 
-  ## 🎯 Roadmap Statistics
+<br>
 
- [![roadmap.sh](https://roadmap.sh/card/wide/6744f9ee5434bf319af6a211?variant=dark&roadmaps=full-stack%2Cpython)](https://roadmap.sh)
+## ⚙️ Tools
 
- ## 💌 Contacts
+<div style="display: inline_block">
+<a href="https://skillicons.dev">
+  <img 
+    src="https://skillicons.dev/icons?i=vscode,git,figma,postman,notion&perline=19" 
+    width="250" 
+    height="auto" />
+</a>
+</div>
 
- <br>
- 
- <div> 
+<br>
 
-   [![Codepen](https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/betafontes)
-   [![Discord](https://img.shields.io/badge/@betafontes-7289DA?style=for-the-badge&logo=discord&logoColor=white "My Discord user")](#)
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/roberta-fontes/)
-   [![Email](https://img.shields.io/badge/Gmail-ca0b4a?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:betafontesdev@gmail.com)
-  
+## 🎯 Roadmap Statistics
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6744f9ee5434bf319af6a211?variant=dark&roadmaps=full-stack%2Cpython)](https://roadmap.sh)
+
+## 💌 Contacts
+
+<br>
+
+<div> 
+     
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/betafontess)
+[![Discord](https://img.shields.io/badge/robertafontes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/687053538999926853)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-fontes/)
+[![Email](https://img.shields.io/badge/Gmail-ca0b4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betafontesdev@gmail.com)
+[![Codepen](https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/betafontes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c77dff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roberta-santos.vercel.app/)
+[![MonkeyType](https://img.shields.io/badge/Monkeytype-4c89bc?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/betafontes)
+
+<br>
+
 <hr>
 
- <br>
+<br>
 
-   ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
 </div>
