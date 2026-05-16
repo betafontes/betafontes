@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=23&center=true&vCenter=true&width=1000&lines=Hii+My+Name+is+Roberta+Fontes;Full-Stack+Developer;+Welcome+To+My+Github!)](https://git.io/typing-svg)
 
-<div align=center>
-<img height="60em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhidzU0Zm8xbHZ6cnBmb2d1Z2Ixam1ta3JvbnJoMzdrN2ptOTk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.webp">
-</div>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/28a9562e-368b-423e-8f57-dc82ff36a4a9" />
+
 
 <br>
 
