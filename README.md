@@ -33,12 +33,12 @@
  <br>
   
   ## Estatísticas do GitHub
-  
-  <div align="center">  
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=dark" /> 
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betafontes&layout=compact&theme=dark" />
- </div
-  <br>
+
+<div align="center">  
+    <img height="170em" src="https://streak-stats.demolab.com?user=betafontes&background=161B22&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true" /> 
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betafontes&layout=compact&bg_color=161B22&title_color=FFFFFF&text_color=C9D1D9&hide_border=true" />
+</div>
 
   ## Tecnologias 
 
