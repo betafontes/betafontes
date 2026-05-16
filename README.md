@@ -5,6 +5,7 @@
 </div>
 
 <br>
+<br>
 
 <div>    
 <table>
@@ -12,6 +13,9 @@
     <td><a align="left" alt="pt-br" align="right" title="traduzir readme para inglês" href="https://github.com/betafontes/betafontes/blob/main/README-en.md" target="_blank">Inglês 🇺🇸</a></td>
 </table>
 </div>
+
+<img width="1358" height="360" alt="image" src="https://github.com/user-attachments/assets/4be6cf46-d712-4f4f-8706-b0e03c4114c7" />
+
 
 <br>
 
