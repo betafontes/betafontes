@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=23&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Roberta+Fontes;Desenvolvedora+Full-Stack;+Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=E6EDF0&size=20&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Roberta+Fontes;Desenvolvedora+Full-Stack;+Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+
+<br>
 
 <img width="1358" height="360" alt="image" src="https://github.com/user-attachments/assets/4be6cf46-d712-4f4f-8706-b0e03c4114c7" />
 
@@ -15,7 +17,7 @@
 
 <br>
 
-## 💟 Sobre Mim
+## Sobre Mim
 
 - Sempre em busca do Conhecimento!
 - Estagiária em Desenvolvimento de Sistemas na Telebit Brasil
@@ -30,15 +32,15 @@
 
  <br>
   
-  ## ⭐ Estatísticas do GitHub
+  ## Estatísticas do GitHub
   
   <div align="center">  
-     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=material-palenight_border=true&theme=material-palenight" /> 
-     <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betafontes&layout=compact&theme=material-palenight" />
-  </div> 
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=betafontes&theme=dark" /> 
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betafontes&layout=compact&theme=dark" />
+ </div
   <br>
 
-  ## 🦄 Tecnologias 
+  ## Tecnologias 
 
   <div style="display: inline_block">
   <a href="https://skillicons.dev">
@@ -51,7 +53,7 @@
 
 <br>
 
-   ## ⚙️ Ferramentas
+   ## Ferramentas
 
 <div style="display: inline_block">
   <a href="https://skillicons.dev">
@@ -63,7 +65,7 @@
 </div>
 
 
- ## 💌 Contatos
+ ## Contatos
 
  <br>
  
